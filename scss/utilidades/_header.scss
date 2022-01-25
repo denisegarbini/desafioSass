@@ -1,0 +1,33 @@
+/* ESTILO HEADER */
+
+.header {
+    background-color: $beigeclaro;
+    border-bottom: solid 1px $beigeoscuro;
+    height: 10%;
+}
+
+.navbar {
+    background-color: $beigeclaro;
+}
+
+.nav-link {
+    color: black;
+}
+
+
+/* ESTILO GENERAL */
+main {
+    background-image: url(../img/fondos/fondoAcuarela1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    padding: 2vh;
+}
+
+h2 {
+    font-family: 'Cormorant Garamond', serif;
+}
